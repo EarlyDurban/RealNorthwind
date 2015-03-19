@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealNorthwindService", "RealNorthwindService\RealNorthwindService.csproj", "{76E17049-8B0F-4C0C-8B84-842144777A82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealNorthwindClient", "RealNorthwindClient\RealNorthwindClient.csproj", "{754BECB5-E3A9-4567-9139-A7DA0BD7138C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76E17049-8B0F-4C0C-8B84-842144777A82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76E17049-8B0F-4C0C-8B84-842144777A82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76E17049-8B0F-4C0C-8B84-842144777A82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76E17049-8B0F-4C0C-8B84-842144777A82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{754BECB5-E3A9-4567-9139-A7DA0BD7138C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{754BECB5-E3A9-4567-9139-A7DA0BD7138C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{754BECB5-E3A9-4567-9139-A7DA0BD7138C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{754BECB5-E3A9-4567-9139-A7DA0BD7138C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

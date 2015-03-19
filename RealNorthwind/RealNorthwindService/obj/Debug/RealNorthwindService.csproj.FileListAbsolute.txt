@@ -1,0 +1,6 @@
+E:\WCF\RealNorthwind\RealNorthwindService\bin\Debug\RealNorthwindService.dll.config
+E:\WCF\RealNorthwind\RealNorthwindService\bin\Debug\RealNorthwindService.dll
+E:\WCF\RealNorthwind\RealNorthwindService\bin\Debug\RealNorthwindService.pdb
+E:\WCF\RealNorthwind\RealNorthwindService\obj\Debug\RealNorthwindService.csprojResolveAssemblyReference.cache
+E:\WCF\RealNorthwind\RealNorthwindService\obj\Debug\RealNorthwindService.dll
+E:\WCF\RealNorthwind\RealNorthwindService\obj\Debug\RealNorthwindService.pdb
